@@ -2,4 +2,22 @@
     <string name="app_name">Sistema</string>
     <string name="image_description">Esta es una descripción de la imagen.</string>
 
+    <string name="planeta_mercurio">Mercúrio</string>
+    <string name="planeta_venus">Vênus</string>
+    <string name="planeta_tierra">Tierra</string>
+    <string name="planeta_marte">Marte</string>
+    <string name="planeta_jupiter">Júpiter</string>
+    <string name="planeta_saturno">Saturno</string>
+    <string name="planeta_urano">Urano</string>
+    <string name="planeta_neptuno">Neptuno</string>
+
+    <string name="descripcion_planeta_mercurio">Mercúrio es el planeta más cercano al Sol.</string>
+    <string name="descripcion_planeta_venus">Vênus es el segundo planeta más cercano al Sol y el más caliente.</string>
+    <string name="descripcion_planeta_tierra">Tierra es el tercer planeta desde el Sol y el único conocido que tiene vida.</string>
+    <string name="descripcion_planeta_marte">Marte es el cuarto planeta desde el Sol y el más rojo.</string>
+    <string name="descripcion_planeta_jupiter">Júpiter es el quinto planeta desde el Sol y el más grande.</string>
+    <string name="descripcion_planeta_saturno">Saturno es el sexto planeta desde el Sol y el más grande después de Júpiter.</string>
+    <string name="descripcion_planeta_urano">Urano es el séptimo planeta desde el Sol y el más frío.</string>
+    <string name="descripcion_planeta_neptuno">Neptuno es el octavo y último planeta desde el Sol.</string>
+
 </resources>
